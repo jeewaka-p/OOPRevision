@@ -1,6 +1,13 @@
 package OOP;
 
 import java.util.Scanner;
+/**
+ *Q2 . Create class Human which will have methods for addRobot() and parameterized constructor as needed
+ *Q3. Create 2 subclasses of Human, Child and Adult.
+ **********Child can hold upto 3 robots and Adult upto 4.
+ **********AddCrawler() will request user to enter number of robots to add and use a for loop to add each one.
+ **********create a addRobot() to include a parameter that will take a robot object and add it to the given index.
+*/
 
 public class Human {
 	String name;
